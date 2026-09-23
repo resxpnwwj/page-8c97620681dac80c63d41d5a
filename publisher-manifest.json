@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0982a52922e5b76b6d776c1e",
+  "owner": "resxpnwwj",
+  "repo": "page-8c97620681dac80c63d41d5a",
+  "title": "西游云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8c97620681dac80c63d41d5a",
+      "a": "西游云",
+      "b": "机场官网线路发布页",
+      "entity": "西游云",
+      "brand": "西游云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "91891f521923d119d544898c25543d81b8108e64d5dfbb0696e74df677c413f5",
+      "content": {
+        "primary_entity": "西游云",
+        "keyword1": "西游云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "各平台客户端可依设备类型选取，订阅配置方法见对应文档。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好适合的套餐，复制订阅链接到客户端即可开始使用。",
+          "AI_CLOSING_TITLE": "从套餐到客户端，一步到位",
+          "AI_DESCRIPTION": "，西游云提供基础版、旗舰版、团队版三档订阅，分别对应不同流量、设备数与线路类型，用户可按日常设备数量和流媒体、游戏需求选择合适套餐。",
+          "AI_FAQ_ANSWER_1": "基础版适合个人轻度使用，100GB流量和3台设备能满足手机、电脑日常浏览。旗舰版流量与设备数更多，并增加流媒体解锁和游戏专线。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。所有套餐均支持多设备同时在线，超出数量需升级套餐。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版年付150元、旗舰版350元、团队版850元，相当于按十个月价格使用十二个月服务。",
+          "AI_FAQ_ANSWER_4": "在客户端内粘贴订阅链接并更新节点即可。不同系统的客户端操作步骤略有差异，可参照对应客户端的配置文档完成导入。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版针对流媒体及游戏场景做了线路优化。基础版可解锁基础流媒体，旗舰版支持全节点原生解锁和IPLC游戏加速。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "西游云不同套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "按月付还是按年付更划算？",
+          "AI_FAQ_QUESTION_4": "如何将订阅导入到客户端？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏对套餐有要求吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度对比套餐，更容易找到适合日常使用的方案。",
+          "AI_FEATURES_TITLE": "西游云套餐核心特点",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按每月用量选择即可。",
+          "AI_FEATURE_TITLE_1": "流量按需匹配",
+          "AI_FEATURE_TEXT_2": "从3台到20台同时在线，覆盖个人多终端和小团队协作场景。",
+          "AI_FEATURE_TITLE_2": "设备数分级",
+          "AI_FEATURE_TEXT_3": "普通线路、IPLC专线到VIP高带宽节点，按对延迟与稳定性的要求选取。",
+          "AI_FEATURE_TITLE_3": "线路类型可选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "西游云提供基础版、旗舰版、团队版三档订阅，按流量、设备数与线路类型区分，适合个人多终端、流媒体观看和游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "西游云订阅套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "设备数从3台到20台可选",
+          "AI_HIGHLIGHT_3": "旗舰版及以上支持专线加速",
+          "AI_PLANS_INTRO": "基础版月付15元享100GB流量与3台设备；旗舰版月付35元享300GB流量、5台设备及IPLC专线；团队版月付85元享1000GB流量与20台设备，年付均有优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数，在基础版、旗舰版、团队版之间选择合适的一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认设备平台与客户端类型，查看订阅是否支持当前系统。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依照对应客户端文档完成节点导入与更新。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "西游云·按需选择套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5s3gz.cn",
+    "host": "5s3gz.cn"
+  },
+  "file_hashes": {
+    "index.html": "fbc15545e9a7639608240f6267ed774ad947597524537c17e9a1553ee13a2ab1",
+    "sitemap.xml": "22fa5c31ddabe08f0bd4174dc17acf6bbcc3494899154419cdd7a3025b3590e4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "efc6a5bc5ee3b7053202c661bdfc3cb752347f141c8251e2d72bd323695895f4",
+    "robots.txt": "b98f67dd56c91965da274b6f3ff4983640defd76ff86b593b3b22db6ad22d223",
+    "413ea9c9f26e89a34466c2aea58cd9a6.txt": "d956a6c8a3907594cfa132f9dcbd15046e53c9004109070f38ffd64e12dc32eb"
+  },
+  "revision": "4a58d814edb56462f982b7262b7410e12af1524ed2888f6eb76575d0ad0c2c40"
+}
